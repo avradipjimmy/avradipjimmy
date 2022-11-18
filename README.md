@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Avradip
 - 👀 I’m interested in ...Data science,Machine learning,Data analytics
 - 🌱 I’m currently learning ...Deep Learning
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...Data science
 - 📫 How to reach me ...avradipjimmy
 /
 avradipjimmy
